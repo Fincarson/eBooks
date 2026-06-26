@@ -1,9 +1,7 @@
 # 📐 Engineering Mathematics
 
-[Back to Academic index](README.md)
+[← Back](README.md)
 
-**1** book(s). Click a link to download.
-
-| 🖼️ Cover | 📖 Title | 🔖 Edition | ✍️ Author | ⬇️ Download |
+| 🖼️ Cover | 📖 Title | 🔖 Edition | ✍️ Author | 📄 PDF |
 |:---:|:---|:---:|:---|:---:|
-| <img src="covers/Advanced_Engineering_Mathematics_10th_Edition_by_Erwin_Kreyszig.jpg" width="80"> | **Advanced Engineering Mathematics** | 10th Edition | Erwin Kreyszig | [⬇️ PDF](https://github.com/Fincarson/eBooks/releases/download/academic/Advanced_Engineering_Mathematics_10th_Edition_by_Erwin_Kreyszig.pdf) |
+| <img src="covers/Advanced_Engineering_Mathematics_10th_Edition_by_Erwin_Kreyszig.jpg" width="100"> | **Advanced Engineering Mathematics** | 10th Edition | Erwin Kreyszig | [Download](https://github.com/Fincarson/eBooks/releases/download/academic/Advanced_Engineering_Mathematics_10th_Edition_by_Erwin_Kreyszig.pdf) |

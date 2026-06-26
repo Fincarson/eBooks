@@ -1,9 +1,7 @@
 # 🔐 Cryptography
 
-[Back to Academic index](README.md)
+[← Back](README.md)
 
-**1** book(s). Click a link to download.
-
-| 🖼️ Cover | 📖 Title | 🔖 Edition | ✍️ Author | ⬇️ Download |
+| 🖼️ Cover | 📖 Title | 🔖 Edition | ✍️ Author | 📄 PDF |
 |:---:|:---|:---:|:---|:---:|
-| <img src="covers/Introduction_to_Cryptography_and_Network_Security.jpg" width="80"> | **Introduction to Cryptography and Network Security** |  |  | [⬇️ PDF](https://github.com/Fincarson/eBooks/releases/download/academic/Introduction_to_Cryptography_and_Network_Security.pdf) |
+| <img src="covers/Introduction_to_Cryptography_and_Network_Security.jpg" width="100"> | **Introduction to Cryptography and Network Security** |  |  | [Download](https://github.com/Fincarson/eBooks/releases/download/academic/Introduction_to_Cryptography_and_Network_Security.pdf) |

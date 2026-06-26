@@ -1,9 +1,7 @@
 # 🖼️ Image Processing
 
-[Back to Academic index](README.md)
+[← Back](README.md)
 
-**1** book(s). Click a link to download.
-
-| 🖼️ Cover | 📖 Title | 🔖 Edition | ✍️ Author | ⬇️ Download |
+| 🖼️ Cover | 📖 Title | 🔖 Edition | ✍️ Author | 📄 PDF |
 |:---:|:---|:---:|:---|:---:|
-| <img src="covers/Digital_Image_Processing_4th_Edition.jpg" width="80"> | **Digital Image Processing** | 4th Edition |  | [⬇️ PDF](https://github.com/Fincarson/eBooks/releases/download/academic/Digital_Image_Processing_4th_Edition.pdf) |
+| <img src="covers/Digital_Image_Processing_4th_Edition.jpg" width="100"> | **Digital Image Processing** | 4th Edition |  | [Download](https://github.com/Fincarson/eBooks/releases/download/academic/Digital_Image_Processing_4th_Edition.pdf) |
